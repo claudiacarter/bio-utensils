@@ -1,4 +1,4 @@
-with open(r"C:\Users\clauc\PycharmProjects\pythonProject\results.fa", "r") as fasta:
+with open(r"FILE-PATH-TO-FASTA", "r") as fasta:
     total_fasta = fasta.readlines()
 
     #check if file is a fasta
